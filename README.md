@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jb3535
 - 👀 I’m interested in ...ethical
 - 🌱 I’m currently learning ...kali
-- 💞️ I’m looking to collaborate on ...projects
+- 💞️ I’m looking to git scripts
 - 📫 How to reach me ...
 
 <!---
